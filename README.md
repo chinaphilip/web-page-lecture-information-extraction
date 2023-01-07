@@ -1,6 +1,6 @@
 This is a repository of the lecture webpage information extraction
 
-目前的模型BigBird(block attention)+CRF，中间会涉及到一些模型各个layer初始化参数的设置和词表的定制,模型的输入为按照从左往右从上往下的字符序列+每个字符片段的二维坐标+字符序号
+目前的模型BigBird(block attention)+CRF，中间会涉及到一些模型各个layer初始化参数的设置和词表的定制, 模型的输入为按照从左往右从上往下的字符序列+每个字符片段的二维坐标+字符序号
 
 模型预测结果可参考文件predictexample.csv
 
